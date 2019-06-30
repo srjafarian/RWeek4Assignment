@@ -1,6 +1,6 @@
 
 
-#Getting and Cleaning Data
+# Getting and Cleaning Data
 
 This project is the last excersice of the . The purpose of this project is to demonstrate the skills we have learned in Getting and Cleaning data course in R for collecting, working with, and cleaning a data set. The provided dataset represents data collected from the accelerometers from the Samsung Galaxy S smartphone. Below the steps of the R script run_analysis is explained.
 
